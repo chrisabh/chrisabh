@@ -3,7 +3,7 @@
 </p>
 
 
-- 📄 [Curriculum Vitae](./Curriculum-Vitae.pdf)
+- 📄 [Curriculum Vitae](./Curriculum_Vitae.pdf)
 - 📭 [Email](mailto:Elhelouchristelle@outlook.com)
 
 ---
